@@ -1,10 +1,10 @@
 # JAVA STUDY
 
-### 교재를 통한 자바 연습 코드
+### 📍교재를 통한 자바 연습 코드
 
 <details>
 <summary>
-  💠언어
+  ⚙언어
 </summary>
   <br>
   
